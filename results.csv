@@ -1,0 +1,9 @@
+Model,Train PPL,Valid PPL,Test PPL
+Bigram MLE,161.66,inf,inf
+Bigram Laplace,5440.83,6607.77,6577.39
+Trigram MLE,14.64,inf,inf
+Trigram Laplace,30331.83,47229.63,47123.51
+Model,Train PPL,Validation PPL,Test PPL
+Unigram,2061.99,2103.57,2083.36
+Bigram,5440.83,6607.77,6577.39
+Trigram,30331.83,47229.63,47123.51
